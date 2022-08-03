@@ -313,10 +313,9 @@
     width: 400px;
     height: 80px;
     text-align: center;
-    /*background-image: url(../images/logo.png);*/
     font-family:微软雅黑;
-    color: red;
-    font-size: 30px;
+    color: #f6f0f0;
+    font-size: 20px;
     z-index: 999999;
     position: absolute;
     left: 42%;
