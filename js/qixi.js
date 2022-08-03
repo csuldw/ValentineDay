@@ -9,8 +9,8 @@ var Qixi = function() {
     },
     audio: {
       enable: true,
-      playURl: "music/happy.mp3",
-      cycleURL: "music/circulation.mp3"
+      playURl: "./music/happy.mp3",
+      cycleURL: "./music/circulation.mp3"
     },
     setTime: {
       walkToThird: 6000,
